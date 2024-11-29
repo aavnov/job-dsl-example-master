@@ -5,5 +5,4 @@ node {
   stage('Compile') {
     sh './gradlew clean build'
   }
-
 }
