@@ -1,5 +1,3 @@
-package definitions
-
 import utilities.JobFactory
 
 JobFactory.seedJob(this)
