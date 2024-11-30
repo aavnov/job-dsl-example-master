@@ -10,3 +10,4 @@ node {
     additionalClasspath: 'jobs/build/libs/*.jar'
   }
 }
+
